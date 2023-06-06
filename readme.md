@@ -1,5 +1,3 @@
-Sure! Here's a short README for an e-commerce backend app built on Django and Django REST Framework:
-
 # E-commerce Backend App
 
 This is an e-commerce backend application built using Django and Django REST Framework. It provides the necessary APIs to support various functionalities of an e-commerce website.
