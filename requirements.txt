@@ -3,5 +3,5 @@ django_rest_framework
 djangorestframework-simplejwt
 requests
 django-cors-headers
-bcrypt
+django-bcrypt
 pillow
